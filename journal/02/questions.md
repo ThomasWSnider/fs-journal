@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > The keywords are Let, Var, and Const.
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > A function is a line of code that only runs when it is invoked
 
 03. What are the `SOLID` principles?
 
@@ -17,7 +17,10 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > You could remove pineapple like so:
+    ```js
+    fruit.find((fruit) => fruit == 'pineapple')
+    ```
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -42,7 +45,7 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > I think it is that a parameter is whatever is plugged into a function, but arguments are the actual data?
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
