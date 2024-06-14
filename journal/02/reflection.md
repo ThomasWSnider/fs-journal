@@ -6,3 +6,7 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+This week has certainly been more challenging than last week. Javascript wasn't making very much sense when we started, and I still feel like I really don't understand most of what we've gone over. The more I've actually been able to put code down and practice, the better I've felt about all of this, but I'm still not 100% about everything we've gone over this week.
+
+All of this said, I'm a little worried about the checkpoint, but I think I do have the knowledge and tools to get it done. The further we go, the larger and larger all of this appears to be, which makes a lot of sense, but it is a little terrifying.

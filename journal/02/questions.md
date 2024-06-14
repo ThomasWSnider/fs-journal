@@ -9,7 +9,13 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > S = Single Responsibility
+      O = Open- Closed Principle
+      L = Liskov Substitution Principle
+      I = Interface Segragation Principle
+      D = Dependency Inversion Principle
+
+      I only really understand S.
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -37,24 +43,40 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > I think you could push each object into the other's arrays into.
+    ```js
+    you.friends.push(them);
+    them.friends.push(you);
+    ```
+      This may be incorrect
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > I think this is a good example
+    ```js
+    if (puppet.isHungry == true) {
+        eatTheCake()
+    } else {
+        haveTheCake{}
+    }
+    ```
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > I think it is that a parameter is whatever is plugged into a function, but arguments are the actual data?
+    > A parameter is what is plugged into a function inside the parentheses. Arguments are the data that is actually being passed through the function.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > I suppose I could use code breaks and check the code line by line?
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > A primitive value is a basic piece of data such as a number, a string, a boolean, or null. A reference is an object or an array.
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > Is there a method that would do this more easily? I think methods only work for arrays and objects, so there wouldn't be one to help here, is that right?
+    ```js
+    for (let i =-100; i <=100; i++) {
+        console.log(i)
+    }
