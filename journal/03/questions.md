@@ -25,16 +25,16 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > The purpose of the MVC pattern is to protect the main data by limiting which parts of the application can interact with it.
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > The controller receives input from the user and changes elements on the DOM
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > The service does all of the 'business logic' which is anything that changes data from the app state
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > The Model provides a blueprint for everything that the Controller is drawing to the DOM and helps to keep track of what information is needed where.
