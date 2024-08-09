@@ -6,3 +6,8 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+
+### Reflection
+
+This week went quicker than I thought it would. It has been a neat experience to work as part of a team. I don't have much to say, honestly. Thank you guys for helping us out whenever we needed it!
