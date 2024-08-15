@@ -9,7 +9,7 @@
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
-  > I do not know what does this. I thought I had to be very verbose with c#, so why would there be a method that doesn't require a type? Have I already used this by now? Should I wait for the Many to Many stuff? Help!
+  > After a beneficial conversation, I understand that this question is asking about the constructor and It is because the constructor returns an instance but does not have a return type on it.
 
 05. In the Car example what is the access modifier of the `Start()` method?
 
